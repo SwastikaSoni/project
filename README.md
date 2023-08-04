@@ -12,7 +12,7 @@ Usage
 Contributing
 License
 Demo
-You can check out the live demo of the website here.
+You can check out the live demo of the website https://swastikasoni.github.io/project/
 
 
 Features
